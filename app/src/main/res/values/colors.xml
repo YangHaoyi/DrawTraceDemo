@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="track_line_1">#80FF00</color>
+    <color name="track_line_2">#86FF00</color>
+    <color name="track_line_3">#8CFF00</color>
+    <color name="track_line_4">#92FF00</color>
+    <color name="track_line_5">#98FF00</color>
+    <color name="track_line_6">#9EFF00</color>
+    <color name="track_line_7">#A4FF00</color>
+    <color name="track_line_8">#AAFF00</color>
+    <color name="track_line_9">#B0FF00</color>
+    <color name="track_line_10">#B6FF00</color>
+    <color name="track_line_11">#BCFF00</color>
+    <color name="track_line_12">#C2FF00</color>
+    <color name="track_line_13">#C8FF00</color>
+    <color name="track_line_14">#CEFF00</color>
+    <color name="track_line_15">#D4FF00</color>
+    <color name="track_line_16">#DAFF00</color>
+    <color name="track_line_17">#E0FF00</color>
+    <color name="track_line_18">#E6FF00</color>
+    <color name="track_line_19">#ECFF00</color>
+    <color name="track_line_20">#F2FF00</color>
+    <color name="track_line_21">#F8FF00</color>
+    <color name="track_line_22">#FEFF00</color>
+    <color name="track_line_23">#FFFF00</color>
+    <color name="track_line_24">#FFFF00</color>
+    <color name="track_line_25">#FFFF00</color>
+    <color name="track_line_26">#FFFF00</color>
+    <color name="track_line_27">#FFFF00</color>
+    <color name="track_line_28">#FFFF00</color>
+    <color name="track_line_29">#FFFF00</color>
+    <color name="track_line_30">#FFFF00</color>
+    <color name="track_line_31">#FFFF00</color>
+    <color name="track_line_32">#FFFF00</color>
+    <color name="track_line_33">#FFFF00</color>
+    <color name="track_line_34">#FFFF00</color>
+    <color name="track_line_35">#FFFF00</color>
+    <color name="track_line_36">#FFFF00</color>
+    <color name="track_line_37">#FFFF00</color>
+    <color name="track_line_38">#FFF900</color>
+    <color name="track_line_39">#FFF300</color>
+    <color name="track_line_40">#FFED00</color>
+    <color name="track_line_41">#FFE700</color>
+    <color name="track_line_42">#FFE100</color>
+    <color name="track_line_43">#FFDB00</color>
+    <color name="track_line_44">#FFD500</color>
+    <color name="track_line_45">#FFCF00</color>
+    <color name="track_line_46">#FFC900</color>
+    <color name="track_line_47">#FFC300</color>
+    <color name="track_line_48">#FFBD00</color>
+    <color name="track_line_49">#FFB700</color>
+    <color name="track_line_50">#FFB100</color>
+    <color name="track_line_51">#FFAB00</color>
+    <color name="track_line_52">#FFA500</color>
+    <color name="track_line_53">#FF9F00</color>
+    <color name="track_line_54">#FF9900</color>
+    <color name="track_line_55">#FF9300</color>
+    <color name="track_line_56">#FF8D00</color>
+    <color name="track_line_57">#FF8700</color>
+    <color name="track_line_58">#FF8100</color>
+    <color name="track_line_59">#FF7B00</color>
+    <color name="track_line_60">#FF7500</color>
+    <color name="track_line_61">#FF6F00</color>
+    <color name="track_line_62">#FF6900</color>
+    <color name="track_line_63">#FF6300</color>
+    <color name="track_line_64">#FF5D00</color>
+    <color name="track_line_65">#FF5700</color>
+    <color name="track_line_66">#FF5100</color>
+    <color name="track_line_67">#FF4B00</color>
+    <color name="track_line_68">#FF4500</color>
+    <color name="track_line_69">#FF4000</color>
+    <color name="track_line_70">#FF4000</color>
+    <color name="track_line_71">#FF4000</color>
+    <color name="track_line_72">#FF4000</color>
+    <color name="track_line_73">#FF4000</color>
+
+
+
+
+
+</resources>
