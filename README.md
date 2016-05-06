@@ -74,8 +74,8 @@
     
     我的上架项目遛狗圈地址:
     欢迎互相探讨学习。
-    
-        ![image](https://github.com/qweyhy/DrawTraceDemo/blob/master/screenshot/draw.jpg)
+  
+  ![image](https://github.com/qweyhy/DrawTraceDemo/blob/master/screenshot/draw.jpg)
         
    
     
