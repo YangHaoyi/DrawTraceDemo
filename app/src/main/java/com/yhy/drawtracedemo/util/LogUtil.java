@@ -10,6 +10,6 @@ public class LogUtil {
 		if(msg==null){
 			return;
 		}
-			Log.d("lyl", msg);
+			Log.d("yhy", msg);
 	}
 }
