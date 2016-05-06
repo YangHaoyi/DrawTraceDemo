@@ -72,10 +72,8 @@
     
     程序实现定位实时记录，实时画线，捋通程序，你会发现悦跑圈，咕咚运动，不过如此。
     
-    我的上架项目遛狗圈地址:
+    我的上架项目遛狗圈地址:http://android.myapp.com/myapp/detail.htm?apkName=com.lbt.staffy.walkthedog
     
-
-    ![image](http://android.myapp.com/myapp/detail.htm?apkName=com.lbt.staffy.walkthedog)
   
   欢迎互相探讨学习。
   
