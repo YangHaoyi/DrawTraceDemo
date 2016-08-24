@@ -32,7 +32,7 @@
                             errorCnt = 0;
                             lastLa = currLa;
                             lastTime = currTime;
-                            LogUtil.d("yhy 确定大于距离，发给服务端>>>>>>>>>" + currLength);
+                            LogUtil.d("确定大于距离，发给服务端>>>>>>>>>" + currLength);
 //                            Toast.makeText(MainActivity.this,"确定大于距离，发给服务端>>>>>>>>>" + currLength,Toast.LENGTH_SHORT).show();
 
 
